@@ -11,6 +11,7 @@
   inputs.src-libcurl-master.ref   = "refs/heads/master";
   inputs.src-libcurl-master.owner = "Araq";
   inputs.src-libcurl-master.repo  = "libcurl";
+  inputs.src-libcurl-master.dir   = "";
   inputs.src-libcurl-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
