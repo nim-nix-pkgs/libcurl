@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652797144,
-        "narHash": "sha256-1xY+Ao0ce4ynur2fDGRsg6bi3++vB8YosSXiycCt2Qk=",
+        "lastModified": 1653689843,
+        "narHash": "sha256-oH8oGh+YjDoi0RGk9H73RgswX7w4gbZB7Y5ReBvUero=",
         "owner": "nim-nix-pkgs",
         "repo": "libcurl",
-        "rev": "b96a53fa4fdc1aa89c7f452dcec3af3aee3a1d5c",
+        "rev": "1054c660fa56bb79945e493ce1da302dd0b9d2e5",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1652797144,
-        "narHash": "sha256-1xY+Ao0ce4ynur2fDGRsg6bi3++vB8YosSXiycCt2Qk=",
+        "lastModified": 1653689843,
+        "narHash": "sha256-oH8oGh+YjDoi0RGk9H73RgswX7w4gbZB7Y5ReBvUero=",
         "owner": "nim-nix-pkgs",
         "repo": "libcurl",
-        "rev": "b96a53fa4fdc1aa89c7f452dcec3af3aee3a1d5c",
+        "rev": "1054c660fa56bb79945e493ce1da302dd0b9d2e5",
         "type": "github"
       },
       "original": {
@@ -97,11 +97,11 @@
     "src-libcurl-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1651452214,
-        "narHash": "sha256-0a+J/8K+UEiwZcbvdNF7vegr+MKv7Wxswm0mJCntXmc=",
+        "lastModified": 1653278979,
+        "narHash": "sha256-RudOSxKiIoEH1d2JIVGnM0d75mavnRNxFPplSi97rzU=",
         "owner": "Araq",
         "repo": "libcurl",
-        "rev": "e0245416e09f8f20607265733ddd3790c6b8c796",
+        "rev": "0cf6a65280ae07c8a4c62b4dd145c8d40fda8365",
         "type": "github"
       },
       "original": {
